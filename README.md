@@ -2,7 +2,7 @@
 
 Página web donde se visualiza las fotos de las coders de la Laboratoria con sus respectivos nombres y apellidos.
 
-![Sin titulo](assets/docs/coders.jpg)
+![Sin titulo](assets/docs/coders.JPG)
 
 ## Objetivos
 
