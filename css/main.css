@@ -1,3 +1,7 @@
+body {
+  background-color: #f5e683;
+}
+
 p {
   font-family: 'PT Mono', monospace;
   font-weight: bold;
@@ -5,6 +9,13 @@ p {
   margin-left: 10px;
 }
 
+select {
+    font-family: 'PT Mono', monospace;
+  background-color: #f9d20a;
+  padding: 10px;
+  border-radius: 10px;
+  border: 3px solid #faa500;
+}
 img {
   width: 200px;
   height: 200px;
@@ -32,4 +43,10 @@ img {
 
 .hide {
   display: none;
+}
+
+figure img:hover {
+  border-radius: 100px;
+  transition: 0.5s;
+  opacity: 1;
 }
